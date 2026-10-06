@@ -28,26 +28,9 @@
 
 <div align="center">
 
-### ✦ PAINEL DE ATIVIDADE ✦
+<img src="./assets/activity-dashboard.svg" alt="Painel neon de estatísticas, linguagens e atividade" width="100%" />
 
-<table>
-<tr>
-<td width="50%" align="center" bgcolor="#0D1117">
-<h3><font color="#C77DFF">📊 GitHub Stats</font></h3>
-<a href="https://github.com/BrenaPacheco">Ver estatísticas e contribuições no perfil oficial</a>
-</td>
-<td width="50%" align="center" bgcolor="#0D1117">
-<h3><font color="#00E5FF">💻 Linguagens</font></h3>
-<font color="#D8D5E8">O perfil público ainda não tem dados suficientes de código para um ranking confiável.</font>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" bgcolor="#0D1117">
-<h3><font color="#FF4FD8">🔥 Atividade & sequência</font></h3>
-<a href="https://github.com/BrenaPacheco">Consulte o calendário oficial do GitHub; a animação abaixo usa essas contribuições.</a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/BrenaPacheco">Abrir o perfil e o calendário oficial de contribuições</a>
 
 </div>
 
@@ -125,4 +108,4 @@ Aplicação institucional de IA com base documental, busca semântica e serviço
 
 </div>
 
-<!-- Os widgets evitam contagens estimadas e direcionam ao calendário oficial do perfil. -->
+<!-- O painel evita contagens estimadas e usa o calendário oficial do perfil. -->
