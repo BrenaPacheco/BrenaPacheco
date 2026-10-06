@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="228" viewBox="0 0 960 228" role="img" aria-labelledby="title desc">
+<title id="title">Painel de atividade do GitHub</title>
+<desc id="desc">Cards neon para estatísticas, linguagens e contribuições públicas.</desc>
+<defs><linearGradient id="border" x1="0" x2="1"><stop stop-color="#C77DFF"/><stop offset="1" stop-color="#00E5FF"/></linearGradient></defs>
+<rect width="960" height="228" rx="18" fill="#0D1117"/>
+<rect x="1.5" y="1.5" width="957" height="225" rx="17" fill="none" stroke="url(#border)" stroke-width="3"/>
+<text x="480" y="35" fill="#C77DFF" font-family="Verdana, sans-serif" font-size="17" font-weight="700" text-anchor="middle" letter-spacing="2">✦ PAINEL DE ATIVIDADE ✦</text>
+<g font-family="Verdana, sans-serif">
+<rect x="22" y="55" width="292" height="145" rx="12" fill="#151B25" stroke="#713D9E"/>
+<text x="42" y="86" fill="#C77DFF" font-size="17" font-weight="700">📊 GitHub Stats</text>
+<text x="42" y="116" fill="#D8D5E8" font-size="13">Dados atuais no perfil oficial</text>
+<text x="42" y="145" fill="#00E5FF" font-size="13">Contribuições e repositórios</text>
+<text x="42" y="173" fill="#9AA4B2" font-size="12">Sem contagens de terceiros</text>
+<rect x="334" y="55" width="292" height="145" rx="12" fill="#151B25" stroke="#176F7A"/>
+<text x="354" y="86" fill="#00E5FF" font-size="17" font-weight="700">⌘ Linguagens</text>
+<text x="354" y="116" fill="#D8D5E8" font-size="13">Ranking só com código público</text>
+<text x="354" y="145" fill="#D8D5E8" font-size="13">Ainda sem amostra confiável.</text>
+<text x="354" y="173" fill="#9AA4B2" font-size="12">Stack confirmada nos projetos abaixo</text>
+<rect x="646" y="55" width="292" height="145" rx="12" fill="#151B25" stroke="#8B377D"/>
+<text x="666" y="86" fill="#FF4FD8" font-size="17" font-weight="700">🔥 Atividade &amp; sequência</text>
+<text x="666" y="116" fill="#D8D5E8" font-size="13">Calendário oficial do GitHub</text>
+<text x="666" y="145" fill="#00E5FF" font-size="13">Animação Pac-Man abaixo</text>
+<text x="666" y="173" fill="#9AA4B2" font-size="12">Atualizada diariamente</text>
+</g></svg>
