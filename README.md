@@ -58,11 +58,14 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-<img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-0D1117?style=for-the-badge&logo=probot&logoColor=C77DFF" alt="Inteligência Artificial" />
-<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-0D1117?style=for-the-badge&logo=githubactions&logoColor=00E5FF" alt="Automação" />
-<img src="https://img.shields.io/badge/Dados-0D1117?style=for-the-badge&logo=databricks&logoColor=FF4FD8" alt="Dados" />
-<img src="https://img.shields.io/badge/Gest%C3%A3o_P%C3%BAblica-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=C77DFF" alt="Gestão Pública" />
+<img src="https://img.shields.io/badge/IA_%26_Automa%C3%A7%C3%A3o-0D1117?style=for-the-badge&logo=githubactions&logoColor=C77DFF" alt="IA e automação" />
 
 </div>
 
@@ -73,19 +76,25 @@
 <td width="33%" valign="top">
 
 ### 🧠 Controladoria Responde
-Assistente institucional com base normativa para apoiar servidores da Controladoria.
+Assistente institucional que responde a servidores com base em documentos oficiais verificados. Faz parte do Projeto_IA.
+
+<sub>🔒 Projeto_IA · repositório privado</sub>
 
 </td>
 <td width="33%" valign="top">
 
 ### 📊 Gestao_diarias
-Acompanhamento de diárias, lançamentos, relatórios e indicadores.
+Sistema de controle da execução da LOA para viagens e diárias, com painel de indicadores, lançamentos e relatórios oficiais.
+
+<sub>🔒 Repositório privado</sub>
 
 </td>
 <td width="33%" valign="top">
 
 ### 🤖 Projeto_IA
-Estudos e experimentos com inteligência artificial, automação e integração de dados.
+Aplicação institucional de IA com base documental, busca semântica e serviços de processamento de documentos.
+
+<sub>🔒 Repositório privado</sub>
 
 </td>
 </tr>
