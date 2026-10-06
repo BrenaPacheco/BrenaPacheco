@@ -32,23 +32,22 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BrenaPacheco&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=00E5FF&text_color=D8D5E8&ring_color=C77DFF&include_all_commits=true" alt="Estatísticas públicas do GitHub" />
+<td width="50%" align="center" bgcolor="#0D1117">
+<h3><font color="#C77DFF">📊 GitHub Stats</font></h3>
+<a href="https://github.com/BrenaPacheco">Ver estatísticas e contribuições no perfil oficial</a>
 </td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenaPacheco&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=D8D5E8" alt="Linguagens dos repositórios públicos" />
+<td width="50%" align="center" bgcolor="#0D1117">
+<h3><font color="#00E5FF">💻 Linguagens</font></h3>
+<font color="#D8D5E8">O perfil público ainda não tem dados suficientes de código para um ranking confiável.</font>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.demolab.com?user=BrenaPacheco&theme=transparent&hide_border=true&background=0D1117&ring=C77DFF&fire=FF4FD8&currStreakLabel=00E5FF&sideLabels=D8D5E8&currStreakNum=FFFFFF&sideNums=C77DFF&dates=8B91A7" alt="Sequência de contribuições do GitHub" />
+<td colspan="2" align="center" bgcolor="#0D1117">
+<h3><font color="#FF4FD8">🔥 Atividade & sequência</font></h3>
+<a href="https://github.com/BrenaPacheco">Consulte o calendário oficial do GitHub; a animação abaixo usa essas contribuições.</a>
 </td>
 </tr>
 </table>
-
-### ░░ CONTRIBUIÇÕES AO LONGO DO ANO ░░
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrenaPacheco&bg_color=0D1117&color=D8D5E8&line=C77DFF&point=00E5FF&area=true&area_color=6C35DE&hide_border=true" alt="Gráfico de atividade pública no GitHub" width="100%" />
 
 </div>
 
@@ -126,4 +125,4 @@ Aplicação institucional de IA com base documental, busca semântica e serviço
 
 </div>
 
-<!-- Os cards exibem dados dinâmicos dos repositórios e contribuições do perfil. -->
+<!-- Os widgets evitam contagens estimadas e direcionam ao calendário oficial do perfil. -->
